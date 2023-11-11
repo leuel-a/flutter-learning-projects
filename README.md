@@ -6,4 +6,4 @@ comments about my projects and how I structure them, please use a pull request.
 
 # Projects
 
-1. Word Pair Generator Î
+1. Word Pair Generator 
